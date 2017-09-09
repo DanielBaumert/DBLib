@@ -1,0 +1,7 @@
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\obj\Debug\DBLib.csprojResolveAssemblyReference.cache
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\bin\Debug\DBLib.dll.config
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\bin\Debug\DBLib.dll
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\bin\Debug\DBLib.pdb
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\bin\Debug\MySql.Data.dll
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\obj\Debug\DBLib.dll
+c:\users\facebamm\documents\visual studio 2017\Projects\Facebamm - Database Manager\DBLib\obj\Debug\DBLib.pdb
